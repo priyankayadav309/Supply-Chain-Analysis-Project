@@ -24,9 +24,9 @@ To analyze end-to-end supply chain data and identify trends, inefficiencies and 
 - Project report
 
 ## Large Files Access
-Due to Github file size limits, ;arge files are hosted on Google Drive.
-Excel & Power BI Dashboards:
-https://drive.google.com/drive/folders/1ud1sJF9BQchl0KbzGwlZFhab1fBOK0IW?usp=sharing
+Due to Github file size limits, large files are hosted on Google Drive.
+Excel & Power BI Dashboards: [Click Here]
+(https://drive.google.com/drive/folders/1ud1sJF9BQchl0KbzGwlZFhab1fBOK0IW?usp=sharing)
 
 ##  Outcome
 - Identified high-demand products and slow moving inventory.
