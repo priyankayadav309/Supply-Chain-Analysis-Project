@@ -2,8 +2,8 @@
 Supply Chain Analysis Project using Excel, SQL, Power BI and Tableau
 #  Supply Chain Analysis Project
 
-##  Objective
-Analyze supply chain data to identify sales trends, inventory performance, and operational inefficiencies.
+##  Project Objective
+To analyze end-to-end supply chain data and identify trends, inefficiencies and performance gaps in sales, inventory and operations to support data-driven business decisions.
 
 ##  Tools Used
 - Excel
@@ -17,9 +17,6 @@ Analyze supply chain data to identify sales trends, inventory performance, and o
 - Inventory turnover
 - Region-wise demand analysis
 
-##  Dashboard
-Power BI dashboard shows KPIs, trends and insights.
-
 ##  Files Included
 - Dataset
 - SQL Queries
@@ -32,4 +29,8 @@ Excel & Power BI Dashboards:
 https://drive.google.com/drive/folders/1ud1sJF9BQchl0KbzGwlZFhab1fBOK0IW?usp=sharing
 
 ##  Outcome
+- Identified high-demand products and slow moving inventory.
+- Highlighted regional performance gaps
+- Provided actionable insights to improve operational efficiency
+- Strengthen analytical and visualization skills across multiple BI tools.
 This project helped in understanding real-world supply chain business problems and analytical thinking.
